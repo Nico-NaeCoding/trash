@@ -1,0 +1,11 @@
+path: D:\data
+train: images/train
+val: images/val
+names:
+- can
+- pet
+- paper
+- plastic
+- glass
+- vinyl
+nc: 6
